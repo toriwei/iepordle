@@ -1,12 +1,12 @@
-import { WORDS } from '../constants/wordlist'
 import { VALID_GUESSES } from '../constants/validGuesses'
 import { WRONG_SPOT_MESSAGE, NOT_CONTAINED_MESSAGE } from '../constants/strings'
 import { getGuessStatuses } from './statuses'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
+import { DICTIONARY } from '../constants/dictionary'
 
 export const isWordInWordList = (word: string) => {
   return (
-    WORDS.includes(localeAwareLowerCase(word)) ||
+    DICTIONARY.some((entry) => entry.Word === word) ||
     VALID_GUESSES.includes(localeAwareLowerCase(word))
   )
 }
@@ -77,12 +77,11 @@ export const getWordOfDay = () => {
   const epochMs = new Date('January 1, 2022 00:00:00').valueOf()
   const now = Date.now()
   const msInDay = 86400000
-  //   const index = Math.floor((now - epochMs) / msInDay)
-  const index = 1
+  const index = Math.floor((now - epochMs) / msInDay)
   const nextday = (index + 1) * msInDay + epochMs
 
   return {
-    solution: localeAwareUpperCase(WORDS[index % WORDS.length]),
+    solution: localeAwareUpperCase(DICTIONARY[index % DICTIONARY.length].Word),
     solutionIndex: index,
     tomorrow: nextday,
   }

@@ -11,7 +11,8 @@ import {
   NEW_WORD_TEXT,
   SHARE_TEXT,
 } from '../../constants/strings'
-
+import { DICTIONARY } from '../../constants/dictionary'
+import { solution, solutionIndex } from '../../lib/words'
 type Props = {
   isOpen: boolean
   handleClose: () => void
@@ -87,6 +88,17 @@ export const StatsModal = ({
           </button>
         </div>
       )}
+      <p className="text-gray-900 dark:text-gray-100">
+        <a
+          href={DICTIONARY[solutionIndex].Link}
+          className="underline font-bold"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {solution}
+        </a>
+        : {DICTIONARY[solutionIndex].Definition}
+      </p>
     </BaseModal>
   )
 }
