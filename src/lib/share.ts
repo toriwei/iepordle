@@ -18,7 +18,7 @@ export const shareStatus = (
         guesses,
         getEmojiTiles(isDarkMode, isHighContrastMode)
       ) +
-      `\n\n*insert game link here* \nLearn more at undivided.io`
+      `\n\nhttps://iepordle.web.app/ \nLearn more at undivided.io`
   )
 }
 

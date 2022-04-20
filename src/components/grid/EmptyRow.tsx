@@ -1,4 +1,3 @@
-import { MAX_WORD_LENGTH } from '../../constants/settings'
 import { Cell } from './Cell'
 import { wordLength } from '../../lib/words'
 

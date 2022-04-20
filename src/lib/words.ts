@@ -6,7 +6,7 @@ import { DICTIONARY } from '../constants/dictionary'
 
 export const isWordInWordList = (word: string) => {
   return (
-    DICTIONARY.some((entry) => entry.Word === word) ||
+    DICTIONARY.some((entry) => entry.Word === localeAwareLowerCase(word)) ||
     VALID_GUESSES.includes(localeAwareLowerCase(word))
   )
 }

@@ -162,11 +162,6 @@ export const DICTIONARY = [
     Link: 'https://app.undivided.io/knowledge-base/article/169',
   },
   {
-    Word: 'deficit',
-    Definition: 'No definition yet!',
-    Link: 'https://undivided.io/',
-  },
-  {
     Word: 'designated',
     Definition:
       'Designated Instruction and Services (DIS) are otherwise known in special education as related services that are necessary for a student to benefit from his/her special education program.',
