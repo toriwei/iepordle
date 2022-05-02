@@ -77,8 +77,15 @@ svg.cursor-pointer:hover {
   justify-content: space-between;
 }
 
+.left-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .right-icons {
   display: flex;
+  padding-left: 10rem;
 }
 
 @keyframes revealAbsentCharCell {

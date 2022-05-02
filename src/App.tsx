@@ -265,7 +265,7 @@ function App() {
           guesses={guesses}
           isRevealing={isRevealing}
         />
-        <Footer />
+        <Footer isDarkMode={isDarkMode} />
         <InfoModal
           isOpen={isInfoModalOpen}
           handleClose={() => setIsInfoModalOpen(false)}
