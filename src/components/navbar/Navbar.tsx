@@ -31,7 +31,7 @@ export const Navbar = ({
             rel="noopener noreferrer"
           >
             <img
-              className="object-cover h-10 "
+              className="object-cover h-4 sm:h-10"
               src={logo}
               alt="undivided logo"
             />
