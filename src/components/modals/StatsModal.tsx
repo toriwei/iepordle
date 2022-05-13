@@ -12,7 +12,7 @@ import {
   SHARE_TEXT,
 } from '../../constants/strings'
 import { DICTIONARY } from '../../constants/dictionary'
-import { solution, solutionIndex } from '../../lib/words'
+import { solution } from '../../lib/words'
 type Props = {
   isOpen: boolean
   handleClose: () => void
@@ -25,7 +25,9 @@ type Props = {
   isDarkMode: boolean
   isHighContrastMode: boolean
 }
-
+const obj = DICTIONARY.find((o) => o.Word === solution.toLocaleLowerCase())
+const link = obj?.Link
+const definition = obj?.Definition
 export const StatsModal = ({
   isOpen,
   handleClose,
@@ -49,6 +51,7 @@ export const StatsModal = ({
       </BaseModal>
     )
   }
+
   return (
     <BaseModal
       title={STATISTICS_TITLE}
@@ -91,14 +94,14 @@ export const StatsModal = ({
           <div>
             <p className="text-gray-900 dark:text-gray-100">
               <a
-                href={DICTIONARY[solutionIndex].Link}
+                href={link}
                 className="underline font-bold"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 {solution}
               </a>
-              : {DICTIONARY[solutionIndex].Definition}
+              : {definition}
             </p>
           </div>
         </div>

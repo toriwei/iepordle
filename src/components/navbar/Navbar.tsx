@@ -4,7 +4,7 @@ import {
   InformationCircleIcon,
 } from '@heroicons/react/outline'
 import { GAME_TITLE } from '../../constants/strings'
-import logo from '../../undividedlogo.jpg'
+import logo from '../../undividedlogo.png'
 
 type Props = {
   setIsInfoModalOpen: (value: boolean) => void
