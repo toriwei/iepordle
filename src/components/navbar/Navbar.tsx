@@ -31,7 +31,7 @@ export const Navbar = ({
             rel="noopener noreferrer"
           >
             <img
-              className="object-cover h-4 sm:h-10"
+              className="object-cover h-5 sm:h-10 "
               src={logo}
               alt="undivided logo"
             />
@@ -40,7 +40,7 @@ export const Navbar = ({
         <p className="text-xl ml-auto mr-auto font-bold dark:text-white">
           {GAME_TITLE}
         </p>
-        <div className="right-icons">
+        <div className="right-icons pl-10 sm:pl-40">
           <ChartBarIcon
             className="h-6 w-6 mr-3 cursor-pointer dark:stroke-white"
             onClick={() => setIsStatsModalOpen(true)}

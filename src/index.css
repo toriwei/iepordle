@@ -85,7 +85,7 @@ svg.cursor-pointer:hover {
 
 .right-icons {
   display: flex;
-  padding-left: 10rem;
+  /* padding-left: 10rem; */
 }
 
 @keyframes revealAbsentCharCell {
