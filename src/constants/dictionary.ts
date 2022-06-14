@@ -13,12 +13,12 @@ export const DICTIONARY = [
   {
     Word: 'acse',
     Definition: 'Advisory Commission on Special Education',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.cde.ca.gov/sp/se/as/acse.asp',
   },
   {
     Word: 'ada',
     Definition: 'American Disabilities Act',
-    Link: 'https://community.undivided.io/news/12058',
+    Link: 'https://www.ada.gov/',
   },
   {
     Word: 'adhd',
@@ -29,13 +29,13 @@ export const DICTIONARY = [
     Word: 'advocacy',
     Definition:
       "Parents of children with disabilities advocate for their child whether they're at an IEP, the doctor's office, or the local playground. Many moms and dads extend their advocacy beyond their own family and become a powerful voice for the community.",
-    Link: 'https://undivided.io/',
+    Link: 'https://undivided.io/resources/985',
   },
   {
     Word: 'advocate',
     Definition:
       'Parents of children with disabilities frequently have to advocate for their child. Some parents also hire a professional advocate to accompany them to an IEP meeting.',
-    Link: 'https://undivided.io/',
+    Link: 'https://undivided.io/resources/985',
   },
   {
     Word: 'asd',
@@ -75,7 +75,7 @@ export const DICTIONARY = [
   {
     Word: 'bcaba',
     Definition: 'Board Certified Assistant Behavior Analyst',
-    Link: 'https://undivided.io/',
+    Link: 'https://undivided.io/resources/321',
   },
   {
     Word: 'bcba',
@@ -119,7 +119,7 @@ export const DICTIONARY = [
   {
     Word: 'caaspp',
     Definition: 'California Assessment of Student Performance and Progress',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.cde.ca.gov/ta/tg/ca/',
   },
   {
     Word: 'ccs',
@@ -136,7 +136,7 @@ export const DICTIONARY = [
     Word: 'consent',
     Definition:
       'Permission for something to happen or agreement to do something is essential to autonomy. Often children and adults with disabilities are not asked for their consent due to our failure to presume competence. Teaching a child consent can happen naturally — for example, when they get their blood drawn. Consent is an important first step in protecting children with disabilities from abuse.',
-    Link: 'https://undivided.io/',
+    Link: 'https://rootedinrights.org/video/consent-and-kids-with-disabilities/',
   },
   {
     Word: 'curriculum',
@@ -182,7 +182,7 @@ export const DICTIONARY = [
     Word: 'diploma',
     Definition:
       'To receive a high school diploma, there are basic state requirements. Your local district may also have its own (and often more stringent) requirements. Many children with extensive support needs may instead work toward a certificate of completion.',
-    Link: 'https://community.undivided.io/news/162466',
+    Link: 'https://undivided.io/resources/478',
   },
   {
     Word: 'disability',
@@ -237,7 +237,7 @@ export const DICTIONARY = [
   {
     Word: 'fec',
     Definition: 'Family Empowerment Center',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.seedsofpartnership.org/familyEmpowerment.html',
   },
   {
     Word: 'feeding',
@@ -249,13 +249,13 @@ export const DICTIONARY = [
     Word: 'ferpa',
     Definition:
       'The Family Educational Rights and Privacy Act is a federal law that protects the privacy of student education records.',
-    Link: 'https://undivided.io/',
+    Link: 'https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html',
   },
   {
     Word: 'fluency',
     Definition:
       'Fluency, which refers to rate, pronunciation, and accuracy, is an important component of both speech therapy and learning to read.',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.readingrockets.org/helping/target/fluency',
   },
   {
     Word: 'frc',
@@ -285,17 +285,17 @@ export const DICTIONARY = [
     Word: 'hipaa',
     Definition:
       'Health Insurance Portability and Accountability Act from 1996 sets standards for keeping medical records private.',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.hhs.gov/hipaa/for-individuals/faq/187/what-does-the-hipaa-privacy-rule-do/index.html',
   },
   {
     Word: 'hoh',
     Definition: 'Hard of Hearing',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.accessibility.com/glossary/hard-of-hearing',
   },
   {
     Word: 'idea',
     Definition: 'Individuals with Disabilities Education Act',
-    Link: 'https://community.undivided.io/news/26661',
+    Link: 'https://undivided.io/resources/116',
   },
   {
     Word: 'iee',
@@ -362,7 +362,7 @@ export const DICTIONARY = [
     Word: 'mediation',
     Definition:
       "IDEA sets out a procedure when parents disagree with their child's IEP team. Mediation plays a key role, either through informal mediation",
-    Link: 'https://undivided.io/',
+    Link: 'https://undivided.io/resources/1005',
   },
   {
     Word: 'medical',
@@ -395,7 +395,7 @@ export const DICTIONARY = [
   {
     Word: 'ocr',
     Definition: 'Office of Civil Rights',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.hhs.gov/ocr/index.html',
   },
   {
     Word: 'ohi',
@@ -406,7 +406,7 @@ export const DICTIONARY = [
     Word: 'outcomes',
     Definition:
       'Educationalists measure achievement using a variety of metrics related to outcomes such as math and ELA scores, graduation, employment, and postsecondary education. In special education, these outcomes are typically far lower, creating an achievement gap.',
-    Link: 'https://undivided.io/',
+    Link: 'https://undivided.io/resources/478',
   },
   {
     Word: 'pbis',
@@ -462,12 +462,12 @@ export const DICTIONARY = [
   {
     Word: 'pti',
     Definition: 'Parent Training Information',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.benefits.gov/benefit/909',
   },
   {
     Word: 'pwn',
     Definition: 'Prior Written Notice',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.understood.org/en/articles/prior-written-notice-your-right-to-hear-about-changes',
   },
   {
     Word: 'regional',
@@ -502,18 +502,18 @@ export const DICTIONARY = [
   {
     Word: 'sai',
     Definition: 'Specialized Academic Instruction',
-    Link: 'https://undivided.io/',
+    Link: 'https://lao.ca.gov/reports/2013/edu/special-ed-primer/special-ed-primer-010313.aspx#:~:text=Specialized%20academic%20instruction%20is%20the,SWDs%20access%20the%20general%20curriculum.',
   },
   {
     Word: 'scdd',
     Definition: 'State Council on Developmental Disabilities',
-    Link: 'https://undivided.io/',
+    Link: 'https://scdd.ca.gov/',
   },
   {
     Word: 'screening',
     Definition:
       'A screening test evaluates a student for a condition separate from other risk factors. In the case of dyslexia, screening all first graders would allow for early diagnosis and reach children with support before they fail.',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.ncld.org/the-importance-of-early-screening/',
   },
   {
     Word: 'sdc',
@@ -529,7 +529,7 @@ export const DICTIONARY = [
     Word: 'selpa',
     Definition:
       'Special Education Local Plan Area. Can be a single district, county, or sub-county group of districts pooling resources to provide special education',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.cde.ca.gov/sp/se/as/caselpas.asp',
   },
   {
     Word: 'service',
@@ -546,7 +546,7 @@ export const DICTIONARY = [
   {
     Word: 'sld',
     Definition: 'Speech and Language Disorder',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/#:~:text=A%20spoken%20language%20disorder%20(SLD,syntax%2C%20semantics%2C%20pragmatics).',
   },
   {
     Word: 'slp',
@@ -556,7 +556,7 @@ export const DICTIONARY = [
   {
     Word: 'slpa',
     Definition: 'Speech and Language Pathologist Assistant',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.asha.org/assistants-certification-program/slpa-faqs/#a1',
   },
   {
     Word: 'smart',
@@ -579,7 +579,7 @@ export const DICTIONARY = [
   {
     Word: 'sped',
     Definition: 'A common abbreviation for Special Education.',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.understood.org/en/articles/understanding-special-education',
   },
   {
     Word: 'ssi',
@@ -620,7 +620,7 @@ export const DICTIONARY = [
     Word: 'technology',
     Definition:
       'Assistive technology (AT) is any equipment, program, or system that is used to increase, maintain, or improve the functional capabilities of people with disabilities.',
-    Link: 'https://undivided.io/',
+    Link: 'https://thearc.org/our-initiatives/technology/',
   },
   {
     Word: 'therapist',
@@ -667,12 +667,12 @@ export const DICTIONARY = [
   {
     Word: 'tvi',
     Definition: 'Teacher of Students with Visual Impairments',
-    Link: 'https://undivided.io/',
+    Link: 'https://www.teachingvisuallyimpaired.com/teacher-of-students-with-visual-impairments.html#:~:text=The%20role%20of%20the%20Teacher,a%20liaison%20with%20community%20services.',
   },
   {
     Word: 'undivided',
     Definition: 'We are unstoppable together!',
-    Link: 'https://undivided.io/',
+    Link: 'https://undivided.io/resources/1101',
   },
   {
     Word: 'universal',
