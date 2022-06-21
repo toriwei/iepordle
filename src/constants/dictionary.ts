@@ -8,7 +8,7 @@ export const DICTIONARY = [
   {
     Word: 'aba',
     Definition: 'Applied Behavioral Analysis',
-    Link: 'https://undivided.io/resources/603',
+    Link: 'https://undivided.io/resources/321',
   },
   {
     Word: 'acse',
@@ -18,7 +18,7 @@ export const DICTIONARY = [
   {
     Word: 'ada',
     Definition: 'American Disabilities Act',
-    Link: 'https://www.ada.gov/',
+    Link: 'https://undivided.io/resources/116',
   },
   {
     Word: 'adhd',
@@ -58,7 +58,7 @@ export const DICTIONARY = [
     Word: 'assistive',
     Definition:
       'Assistive technology (AT) is any equipment, program, or system that is used to increase, maintain, or improve the functional capabilities of people with disabilities. AT can be both high-tech, such as an iPad, and low-tech, such as a communication board.',
-    Link: 'https://undivided.io/resources/690',
+    Link: 'https://undivided.io/resources/1168',
   },
   {
     Word: 'basc',
@@ -108,7 +108,7 @@ export const DICTIONARY = [
   {
     Word: 'caa',
     Definition: 'California Alternate Assessment',
-    Link: 'https://undivided.io/resources/536',
+    Link: 'https://undivided.io/resources/478',
   },
   {
     Word: 'calable',
@@ -136,7 +136,7 @@ export const DICTIONARY = [
     Word: 'consent',
     Definition:
       'Permission for something to happen or agreement to do something is essential to autonomy. Often children and adults with disabilities are not asked for their consent due to our failure to presume competence. Teaching a child consent can happen naturally — for example, when they get their blood drawn. Consent is an important first step in protecting children with disabilities from abuse.',
-    Link: 'https://rootedinrights.org/video/consent-and-kids-with-disabilities/',
+    Link: 'https://undivided.io/resources/279',
   },
   {
     Word: 'curriculum',
@@ -165,7 +165,7 @@ export const DICTIONARY = [
     Word: 'designated',
     Definition:
       'Designated Instruction and Services (DIS) are otherwise known in special education as related services that are necessary for a student to benefit from his/her special education program.',
-    Link: 'https://undivided.io/resources/663',
+    Link: 'https://undivided.io/resources/1168',
   },
   {
     Word: 'dhh',
@@ -211,12 +211,12 @@ export const DICTIONARY = [
     Word: 'erics',
     Definition:
       'Educationally Related Intensive Counseling Services is a related service.',
-    Link: 'https://undivided.io/resources/663',
+    Link: 'https://undivided.io/resources/1168',
   },
   {
     Word: 'esy',
     Definition: 'Extended School Year',
-    Link: 'https://undivided.io/resources/205',
+    Link: 'https://undivided.io/resources/1155',
   },
   {
     Word: 'evaluation',
@@ -279,7 +279,7 @@ export const DICTIONARY = [
     Word: 'hearing',
     Definition:
       'Hearing is the awareness of sound and the ability to assign meaning to that sound. Deafness and hearing loss can have a profound effect on our development, speech and language, and comprehension if not adequately supported.',
-    Link: 'https://undivided.io/resources/210',
+    Link: 'https://undivided.io/resources/749',
   },
   {
     Word: 'hipaa',
@@ -290,7 +290,7 @@ export const DICTIONARY = [
   {
     Word: 'hoh',
     Definition: 'Hard of Hearing',
-    Link: 'https://www.accessibility.com/glossary/hard-of-hearing',
+    Link: 'https://undivided.io/resources/749',
   },
   {
     Word: 'idea',
@@ -300,12 +300,12 @@ export const DICTIONARY = [
   {
     Word: 'iee',
     Definition: 'Independent Educational Evaluation',
-    Link: 'https://undivided.io/resources/115',
+    Link: 'https://undivided.io/resources/1213',
   },
   {
     Word: 'ifsp',
     Definition: 'Individualized Family Service Plan',
-    Link: 'https://undivided.io/resources/193',
+    Link: 'https://undivided.io/resources/326',
   },
   {
     Word: 'ihss',
@@ -333,7 +333,7 @@ export const DICTIONARY = [
   {
     Word: 'ipp',
     Definition: 'Individualized Program Plan',
-    Link: 'https://undivided.io/resources/324',
+    Link: 'https://undivided.io/resources/326',
   },
   {
     Word: 'learning',
@@ -362,7 +362,7 @@ export const DICTIONARY = [
     Word: 'mediation',
     Definition:
       "IDEA sets out a procedure when parents disagree with their child's IEP team. Mediation plays a key role, either through informal mediation",
-    Link: 'https://undivided.io/resources/1005',
+    Link: 'https://undivided.io/resources/1004',
   },
   {
     Word: 'medical',
@@ -385,7 +385,7 @@ export const DICTIONARY = [
   {
     Word: 'npa',
     Definition: 'Non Public Agency',
-    Link: 'https://undivided.io/resources/189',
+    Link: 'https://undivided.io/resources/954',
   },
   {
     Word: 'nps',
@@ -416,7 +416,7 @@ export const DICTIONARY = [
   {
     Word: 'pcp',
     Definition: 'Person Centered Plan',
-    Link: 'https://undivided.io/resources/244',
+    Link: 'https://undivided.io/resources/988',
   },
   {
     Word: 'physical',
@@ -457,7 +457,7 @@ export const DICTIONARY = [
     Word: 'provider',
     Definition:
       'From medical specialists to therapists to the many parents who work as IHSS parent providers, “provider” is a big word in our world!',
-    Link: 'https://undivided.io/resources/854',
+    Link: 'https://undivided.io/resources/262',
   },
   {
     Word: 'pti',
@@ -467,7 +467,7 @@ export const DICTIONARY = [
   {
     Word: 'pwn',
     Definition: 'Prior Written Notice',
-    Link: 'https://www.understood.org/en/articles/prior-written-notice-your-right-to-hear-about-changes',
+    Link: 'https://undivided.io/resources/779',
   },
   {
     Word: 'regional',
@@ -479,13 +479,13 @@ export const DICTIONARY = [
     Word: 'resolution',
     Definition:
       'The first step after filing a due process complaint is to have a resolution meeting with the district to find a way to resolve the disagreement without a hearing.',
-    Link: 'https://undivided.io/resources/176',
+    Link: 'https://undivided.io/resources/1004',
   },
   {
     Word: 'resource',
     Definition:
       'Under the California Master Plan for Special Education in 1980, resource specialists were defined as special education teachers who could provide itinerant or center-based support for kids receiving special education services in a general education setting. Children receiving early intervention services can find support at their local Family Resource Center.',
-    Link: 'https://eric.ed.gov/?id=ED222026',
+    Link: 'https://undivided.io/resources/954',
   },
   {
     Word: 'respite',
@@ -502,7 +502,7 @@ export const DICTIONARY = [
   {
     Word: 'sai',
     Definition: 'Specialized Academic Instruction',
-    Link: 'https://lao.ca.gov/reports/2013/edu/special-ed-primer/special-ed-primer-010313.aspx#:~:text=Specialized%20academic%20instruction%20is%20the,SWDs%20access%20the%20general%20curriculum.',
+    Link: 'https://undivided.io/resources/1189',
   },
   {
     Word: 'scdd',
@@ -522,8 +522,8 @@ export const DICTIONARY = [
   },
   {
     Word: 'sdp',
-    Definition: 'Special Day Class',
-    Link: 'https://undivided.io/resources/124',
+    Definition: 'Self-Determination Program',
+    Link: 'https://undivided.io/resources/244',
   },
   {
     Word: 'selpa',
@@ -535,7 +535,7 @@ export const DICTIONARY = [
     Word: 'service',
     Definition:
       'Related services can be provided through an IEP or IPP as support, specialized instruction, or therapy, or through private insurance or other funding.',
-    Link: 'https://undivided.io/resources/189',
+    Link: 'https://undivided.io/resources/1168',
   },
   {
     Word: 'sibling',
@@ -551,7 +551,7 @@ export const DICTIONARY = [
   {
     Word: 'slp',
     Definition: 'Speech Language Pathologist',
-    Link: 'https://undivided.io/resources/854',
+    Link: 'https://undivided.io/resources/276',
   },
   {
     Word: 'slpa',
@@ -579,12 +579,12 @@ export const DICTIONARY = [
   {
     Word: 'sped',
     Definition: 'A common abbreviation for Special Education.',
-    Link: 'https://www.understood.org/en/articles/understanding-special-education',
+    Link: 'https://undivided.io/resources/124',
   },
   {
     Word: 'ssi',
     Definition: 'Supplemental Security Income',
-    Link: 'https://undivided.io/resources/300',
+    Link: 'https://undivided.io/resources/240',
   },
   {
     Word: 'stimming',
@@ -620,7 +620,7 @@ export const DICTIONARY = [
     Word: 'technology',
     Definition:
       'Assistive technology (AT) is any equipment, program, or system that is used to increase, maintain, or improve the functional capabilities of people with disabilities.',
-    Link: 'https://thearc.org/our-initiatives/technology/',
+    Link: 'https://undivided.io/resources/1168',
   },
   {
     Word: 'therapist',
